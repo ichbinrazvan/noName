@@ -1,6 +1,7 @@
 /*
     Acest program probabil este prost.
     Scopul vostru este sa ii re-aduceti inteligenta!
+    Test-fork
 */
 
 #include <stdio.h>
